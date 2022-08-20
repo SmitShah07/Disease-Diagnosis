@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Disease Diagnosis</string>
+    <string name="select_minimum_3_symptoms_from_below_list">Select minimum 3 Symptoms from below list</string>
+    <string name="diagnose_disease">Diagnose Disease</string>
+    <string name="recommended_medicine">Recommended Medicine</string>
+    <string name="concern_doctor">*All recommended Medicines are Standard.It is recommended to take light dose to avoid oppisite reaction.\n If you not feel relieved in two to three days please concern Doctor.</string>
+</resources>

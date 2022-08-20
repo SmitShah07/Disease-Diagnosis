@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726618195878",
+    "firebase_url": "https://disease-diagnosis.firebaseio.com",
+    "project_id": "disease-diagnosis",
+    "storage_bucket": "disease-diagnosis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726618195878:android:0d4c0702ab17698028b167",
+        "android_client_info": {
+          "package_name": "com.deepmodi.www.diseasediagnosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726618195878-apob9mdhggs1sfqc4addhi3q99vtgc14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCTMjhDyTuUEiY96oyHgVJNHoB2jX1JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726618195878-apob9mdhggs1sfqc4addhi3q99vtgc14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
